@@ -9,7 +9,7 @@ and more! (There isn't more)
 No I will not make a mobile version
 
 # How to install
-Download the latest package and extract the zip file, and execute RobloxRewindClient.exe either from the file explorer or command prompt
+Download the latest release and extract the zip file, and execute RobloxRewindClient.exe either from the file explorer or command prompt
 
 # How to compile
 Compile it like literally any other .NET app
